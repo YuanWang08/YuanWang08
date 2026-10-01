@@ -19,9 +19,9 @@ Here is a showcase of the official academic systems, event websites, and project
 
 I have a proven track record of collaborating in and leading high-traffic school-level information platforms.
 
-* **[2025 - 國立中央大學新生知訊網](https://25.ncufresh.ncu.edu.tw/) `(Main Coordinator)`**
+* **[2025 - 國立中央大學新生知訊網](https://ncufresh.ncu.edu.tw/25/) `(Main Coordinator)`**
     * *Description:* Spearheaded the planning, development, and system integration for the official university orientation platform, ensuring seamless onboarding for thousands of freshmen.
-* **[2024 - 國立中央大學新生知訊網](https://24.ncufresh.ncu.edu.tw/) `(Team Member)`**
+* **[2024 - 國立中央大學新生知訊網](https://ncufresh.ncu.edu.tw/24/) `(Team Member)`**
     * *Description:* Collaborated within a cross-functional engineering team to build and optimize responsive web components and interactive modules.
 
 ---
