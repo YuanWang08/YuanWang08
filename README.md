@@ -1,3 +1,4 @@
+
 # Hi there, I'm Wilson Wang 👋
 
 ## 🚀 Systems & Websites I've Built
@@ -9,9 +10,10 @@ Here is a showcase of the official academic systems, event websites, and project
 | Project Name | Role / Description | Link |
 | :--- | :--- | :--- |
 | **國立中央大學領導獎學金申請網**<br>_NCU Leadership Scholarship Application Website_ | Full-stack Developer / System Maintainer | [🔗 Portal](https://scholarship.careercenter.ncu.edu.tw/) |
-| **國立中央大學學務處校外實習課程網**<br>_NCU Off-Campus Internship Program Website_ | Full-stack Developer / System Architect | [🔗 Portal](https://internship.careercenter.ncu.edu.tw/) |
+| **國立中央大學學務處校外實習課程網**<br>_NCU Off-Campus Internship Program Website_ | Full-stack Developer / System Maintainer | [🔗 Portal](https://internship.careercenter.ncu.edu.tw/) |
 | **國立中央大學校園開放日活動網站**<br>_NCU Open House Day Website_ | Web Developer & Designer | [🔗 Website](https://openhouse.ncu.edu.tw/) |
-| **NAPAI 前瞻 AI 技術人才培育計畫官網** | Front-end Developer & Maintainer | [🔗 GitHub Pages](https://napaincu.github.io/) |
+| **NAPAI 前瞻 AI 技術人才培育計畫官網** | Full-stack Developer / System Maintainer | [🔗 Website](https://napai.ncu.edu.tw/) |
+| **中大多元專項輔導導師成果網** | Front-end Developer & Maintainer | [🔗 Website](https://specialized-mentors.ncu.edu.tw/) |
 
 ---
 
